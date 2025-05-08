@@ -1,4 +1,4 @@
-[![sync_surveycto](https://github.com/agency-fund/syncsurveycto-rsurveycto/actions/workflows/sync_surveycto.yaml/badge.svg)](https://github.com/agency-fund/syncsurveycto-rsurveycto/actions/workflows/sync_surveycto.yaml)
+[![sync_surveycto](https://github.com/Hg24111999/qat-nepal/actions/workflows/sync_surveycto.yaml/badge.svg)](https://github.com/Hg24111999/qat-nepal/actions/workflows/sync_surveycto.yaml)
 
 # Overview
 
